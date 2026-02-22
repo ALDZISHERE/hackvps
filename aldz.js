@@ -1,0 +1,5 @@
+{
+  "status": "active",
+  "signature": "ELITE_SECURE_1922",
+  "allowed_keys": ["ARZZGANTENK"]
+}
